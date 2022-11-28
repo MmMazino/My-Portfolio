@@ -4,7 +4,7 @@ import { AiFillFacebook, AiFillGithub, AiFillLinkedin, AiFillPhone } from "react
 import { BsFillPatchCheckFill } from "react-icons/bs";
 import { FaGraduationCap, FaRegCalendarAlt } from "react-icons/fa";
 import { MdWork, MdOutlineMail } from "react-icons/md";
-import deved from "../public/dev-ed-wave.png";
+import deved from "../public/Mag.jpg";
 import kmuttlogo from "../public/KMUTT_LOGO.png";
 import Image from 'next/image';
 import mission from '../public/mission.png'
