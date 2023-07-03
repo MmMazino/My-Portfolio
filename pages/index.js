@@ -66,7 +66,7 @@ export default function Home() {
               <h2 className='text-5xl py-2 text-teal-600 font-medium dark:text-teal-400 md:text-6xl'>Thanapit Srisupa</h2>
               <h3 className='text-2xl py-2 dark:text-white md:text-3xl'>Frontend Developer</h3>
               <p className='text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl text-left indent-8'>
-                Hi! my name is Thanapit Srisupa.my nickname is maggie.I'm 22 year old.I'm fresh graduate from kmutt.I have experience Frontend from internship and project in from university.
+                Hi! my name is Thanapit Srisupa.my nickname is maggie.I'm 23 year old.I'm graduate from kmutt.I have experience Frontend from internship and project in from university.
                 This is my Portfolio.Let see
               </p>
             </div>
@@ -84,9 +84,7 @@ export default function Home() {
                   <div className='text-md md:text-xl'>
                     <p className='p-1 flex items-center'><BsFillPatchCheckFill className='mr-2'></BsFillPatchCheckFill>HTML</p>
                     <p className='p-1 flex items-center'><BsFillPatchCheckFill className='mr-2'></BsFillPatchCheckFill>CSS</p>
-                    <p className='p-1 flex items-center'><BsFillPatchCheckFill className='mr-2'></BsFillPatchCheckFill>JavaScript</p>
-                    <p className='p-1 flex items-center'><BsFillPatchCheckFill className='mr-2'></BsFillPatchCheckFill>Git</p>
-                  </div>
+                    <p className='p-1 flex items-center'><BsFillPatchCheckFill className='mr-2'></BsFillPatchCheckFill>JavaScript</p>                  </div>
                   <div className='text-md md:text-xl'>
                     <p className='p-1 flex items-center'><BsFillPatchCheckFill className='mr-2'></BsFillPatchCheckFill>ReactJs</p>
                     <p className='p-1 flex items-center'><BsFillPatchCheckFill className='mr-2'></BsFillPatchCheckFill>NextJs</p>
@@ -105,7 +103,6 @@ export default function Home() {
                 </div>
               </div>
             </div>
-
           </section>
 
           <section id='Education' className='my-5 p-10'>
@@ -125,8 +122,15 @@ export default function Home() {
             <div className='max-w-lg mx-auto dark:text-gray-200'>
               <h3 className='text-xl md:text-2xl p-2 flex items-center'><MdWork className='mr-2'></MdWork>Intern at mission to the moon co.</h3>
               <div className='flex'>
-                <p className='text-md md:text-xl text-teal-600 dark:text-teal-400 p-2 whitespace-nowrap flex items-center'><FaRegCalendarAlt className='mr-2 text-black'></FaRegCalendarAlt>1 JUN. - 1 AUG. 2021</p>
+                <p className='text-md md:text-xl text-teal-600 dark:text-teal-400 p-2 whitespace-nowrap flex items-center'><FaRegCalendarAlt className='mr-2 text-black dark:text-gray-200'></FaRegCalendarAlt>1 JUN. - 1 AUG. 2021</p>
                 <p className='text-md md:text-xl p-2 w-100'>Wordpress Frontend</p>
+              </div>
+            </div>
+            <div className='max-w-lg mx-auto dark:text-gray-200'>
+              <h3 className='text-xl md:text-2xl p-2 flex items-center'><MdWork className='mr-2'></MdWork>Freelance Frontend</h3>
+              <div className='flex'>
+                <p className='text-md md:text-xl text-teal-600 dark:text-teal-400 p-2 whitespace-nowrap flex items-center'><FaRegCalendarAlt className='mr-2 text-black dark:text-gray-200'></FaRegCalendarAlt>Now</p>
+                <p className='text-md md:text-xl p-2 w-100'>Convert figma,psd to html</p>
               </div>
             </div>
           </section>
