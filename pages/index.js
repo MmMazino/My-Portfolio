@@ -322,7 +322,7 @@ export default function Home() {
                   <p className="p-2">Language: Html Css Js</p>
                   <ul>
                     <li className="p-2">- Change design ux/ui of homepage</li>
-                    <li className="p-2">- Edit html css of design</li>
+                    <li className="p-2">- Edit html css from design</li>
                     <li className="p-2">- Pagespeed optimization</li>
                     <li className="m-2">
                       <button>
