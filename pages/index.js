@@ -141,7 +141,7 @@ export default function Home() {
                 Frontend Developer
               </h3>
               <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl text-left indent-8">
-                Hi! my name is Thanapit Srisupa.my nickname is maggie.I'm 23
+                Hi! my name is Thanapit Srisupa.my nickname is maggie.I'm 24
                 year old.I'm graduate from kmutt.I have experience Frontend from
                 internship and project in from university. This is my
                 Portfolio.Let see
